@@ -27,7 +27,7 @@ Start the program.
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 from binarytree import Node
 
@@ -102,7 +102,7 @@ End the program.
 
 # PYTHON PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 from binarytree import Node 
 l=[]
@@ -139,7 +139,7 @@ End the program.
 
 # PROGRAM:
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 from binarytree import build
 t = ["/","*","+","+",4,"-",2,3,1,None,None,9,5]
@@ -172,7 +172,7 @@ End the program.
 
 # PROGRAM
 ~~~
-Reg -212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 
 from binarytree import heap,build,Node
 def heaptree(L):
@@ -207,7 +207,7 @@ To write a Python program to build and evaluate the given Expression tree.
 
 # PROGRAM
 ~~~
-Reg - 212222060245 Name - Singamala Rakshitha
+Reg-212222060229 Name-sarvesan lathika
 class Node:
     def __init__(self, val, left=None, right=None):
         self.val = val
